@@ -5,7 +5,11 @@
 安装依赖库
 <pre><code>
 pip install openai
+</code></pre>
+<pre><code>
 pip install requests
+</code></pre>
+<pre><code>
 pip install flask
 </code></pre>
 # 安装ffmpeg
@@ -13,8 +17,14 @@ pip install flask
 解压到C:\Program Files目录下
 添加环境变量C:\Program Files\ffmpeg\bin
 以管理员身份运行cmd或者power shell
-运行ffmpeg -version
-再次运行setx /M PATH "C:\Program Files\ffmpeg\bin;%PATH%"
+运行
+<pre><code>
+ffmpeg -version
+</code></pre>
+再次运行
+<pre><code>
+setx /M PATH "C:\Program Files\ffmpeg\bin;%PATH%"
+</code></pre>
 # 运行
 同时解压所有压缩包到C:\根目录
 记事本打开C:\QQ bot\QQ bot\config.yml 将账号密码改成你机器人的账号密码，保存更改
