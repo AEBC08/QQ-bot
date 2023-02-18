@@ -3,9 +3,11 @@
 # 安装环境
 安装python3.8以上的版本
 安装依赖库
+<pre><code>
 pip install openai
 pip install requests
 pip install flask
+</code></pre>
 # 安装ffmpeg
 访问 https://ffmpeg.org/download.html 下载
 解压到C:\Program Files目录下
