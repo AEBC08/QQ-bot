@@ -1,7 +1,8 @@
 # QQ-bot
 一个使用python搭建基于go-cqhttp的QQ机器人
 # 安装环境
-安装python3.8以上的版本
+安装python3.8以上的版本 官网 https://www.python.org
+安装nodejs 官网 https://nodejs.org
 安装依赖库
 <pre><code>
 pip install openai
