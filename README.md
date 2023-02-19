@@ -23,7 +23,6 @@ pip install flask
 # 安装ffmpeg
 下载：
 <br>
-<br>
 访问官网 https://ffmpeg.org/download.html
 <br>
 或 https://pan.baidu.com/s/1KtT90Mf42ky6K5vM0oMpdg?pwd=t4vb 提取码: t4vb 
