@@ -42,9 +42,7 @@ ffmpeg -version
 setx /M PATH "C:\Program Files\ffmpeg\bin;%PATH%"
 </code></pre>
 # 运行
-解压压缩包到C:\（根目录）
-<br>
-一定要是C盘根目录，文件夹名字不能改，不然会出问题
+解压压缩包到C:\（根目录，一定要是C盘根目录，文件夹名字不能改，不然会出问题）
 <br>
 记事本打开C:\QQ bot\QQ bot\config.yml 将账号密码改成你机器人的账号密码，保存更改
 <br>
