@@ -14,7 +14,7 @@ pip install requests
 pip install flask
 </code></pre>
 # 安装ffmpeg
-访问 https://ffmpeg.org/download.html 下载
+访问 https://ffmpeg.org/download.html 或 https://pan.baidu.com/s/1KtT90Mf42ky6K5vM0oMpdg?pwd=t4vb 提取码: t4vb 下载
 解压到C:\Program Files目录下
 添加环境变量C:\Program Files\ffmpeg\bin
 以管理员身份运行cmd或者power shell
