@@ -44,9 +44,9 @@ setx /M PATH "C:\Program Files\ffmpeg\bin;%PATH%"
 # 运行
 解压压缩包到C:\（根目录，一定要是C盘根目录，文件夹名字不能改，不然会出问题）
 <br>
-记事本打开C:\QQ bot\QQ bot\config.yml 将账号密码改成你机器人的账号密码，保存更改
+记事本或者其他文本编辑器开C:\QQ bot\QQ bot\config.yml 将账号密码改成你机器人的账号密码，保存更改
 <br>
-记事本打开C:\QQ bot\QQ bot\bot.py 将机器人账号和你自己的账号还有OpenAIkey填入，触发方式看个人，作用就是触发ChatGPT
+记事本或者其他文本编辑器打开C:\QQ bot\QQ bot\bot.py 将机器人账号和你自己的账号还有OpenAIkey填入，触发方式看个人，作用就是触发ChatGPT
 <br>
 没有OpenAIkey将无法使用ChatGPT，获取key的教程去 https://bilibili.com 一大堆
 <br>
