@@ -1,5 +1,8 @@
 # QQ-bot
 一个使用python搭建基于go-cqhttp的QQ机器人
+# 使用需知
+需要一定的动手能力和理解能力
+\n目前不确定会不会出现问题
 # 安装环境
 安装python3.8以上的版本 官网 https://www.python.org
 安装nodejs 官网 https://nodejs.org
@@ -37,3 +40,4 @@ setx /M PATH "C:\Program Files\ffmpeg\bin;%PATH%"
 访问 https://space.bilibili.com/510197857 查看作品
 # 更新时间
 每星期周末
+\n大概率更新
